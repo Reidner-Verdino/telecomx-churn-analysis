@@ -1,6 +1,6 @@
 # 📡 TelecomX — Análise de Evasão de Clientes (Churn)
 
-Projeto desenvolvido como parte do **Challenge 2 de Data Science** da [Alura](https://www.alura.com.br).
+Projeto desenvolvido por Reidner Verdino como parte do **Challenge 2 de Data Science** da [Alura](https://www.alura.com.br).
 
 ---
 
@@ -162,8 +162,8 @@ https://raw.githubusercontent.com/ingridcristh/challenge2-data-science/main/Tele
 
 ## 👤 Autor
 
-Desenvolvado como parte do Challenge 2 — Alura | Data Science
+Desenvolvido por Reidner Verdino como parte do Challenge 2 — Alura | Data Science
 
 ---
 
-*© 2025 — Projeto educacional sem fins lucrativos*
+*© 2026 — Projeto educacional sem fins lucrativos*
